@@ -1,0 +1,21 @@
+PROPERTIES
+
+Coordinates:
+17:48:16.94 -45:07:21.80
+267.070568 -45.122722
+
+
+Period:
+2.034938711 days
+
+
+USNO-B Photometry:
+B = 15.50
+R = 14.86, 14.64
+I = 14.45
+
+
+2MASS Photometry (median):
+J = 13.69
+H = 13.36
+K = 13.24
